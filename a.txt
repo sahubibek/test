@@ -2,8 +2,8 @@
   "employees": [
     {
       "name": "Alice Smith",
-      "emp-number": "E001",
-      "country": "USA",
+      "emp-number": "E01",
+      "country": "IN",
       "age": 29,
       "dept": "Engineering"
     },
