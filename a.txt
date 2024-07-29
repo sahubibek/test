@@ -2,7 +2,7 @@
   "employees": [
     {
       "name": "Alice Smith",
-      "emp-number": "E001",
+      "emp-number": "E01",
       "country": "USA",
       "age": 29,
       "dept": "Engineering"
