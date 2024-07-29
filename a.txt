@@ -3,7 +3,7 @@
     {
       "name": "Alice Smith",
       "emp-number": "E01",
-      "country": "USA",
+      "country": "IN",
       "age": 29,
       "dept": "Engineering"
     },
